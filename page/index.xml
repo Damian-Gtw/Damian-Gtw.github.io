@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 梦想家日记</title>
-    <link>https://Damian-Ge.github.io/page/</link>
+    <link>https://Damian-Gtw.github.io/page/</link>
     <description>Recent content in Pages on 梦想家日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Damian-Ge.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Damian-Gtw.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archives</title>
-      <link>https://Damian-Ge.github.io/archives/</link>
+      <link>https://Damian-Gtw.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://Damian-Ge.github.io/archives/</guid>
+      <guid>https://Damian-Gtw.github.io/archives/</guid>
       <description></description>
     </item>
     <item>
       <title>Search</title>
-      <link>https://Damian-Ge.github.io/search/</link>
+      <link>https://Damian-Gtw.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Damian-Ge.github.io/search/</guid>
+      <guid>https://Damian-Gtw.github.io/search/</guid>
       <description></description>
     </item>
   </channel>
